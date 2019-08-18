@@ -57,8 +57,7 @@
 //! // 跟上面一样，详见 RFC20 文档的第 2 部分介绍，这是 ASCII 规范中约定的值
 // --snip--
 
-
-mod asciis {
+pub mod asciis {
     use std::collections::HashMap;
     pub struct Asciis{}
     impl Asciis{
