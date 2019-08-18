@@ -1,0 +1,10 @@
+[package]
+name = "asciis"
+version = "0.1.2"
+authors = ["zenrusts <zenrusts@sina.com>"]
+edition = "2018"
+description = "ASCII base on RFC20. Just ord() and chr()"
+license = "MIT/Apache-2.0"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
