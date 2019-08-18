@@ -3,7 +3,12 @@ name = "asciis"
 version = "0.1.0"
 authors = ["zenrusts <zenrusts@sina.com>"]
 edition = "2018"
-description = "ASCII base on RFC20. Just ord() and chr() // 基于 ASCII 规范文档 RFC20 编写的库。这个库非常简单易用，因为只有 ord() 和 chr() 这两个方法"
+description = """ASCII base on RFC20. Just ord() and chr()
+
+// 基于 ASCII 规范文档 RFC20 编写的库。这个库非常简单易用，因为只有 ord() 和 chr() 这两个方法
+
+[document // 使用文档](https://docs.rs/asciis/0.1.0/asciis/)
+"""
 license = "MIT/Apache-2.0"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
