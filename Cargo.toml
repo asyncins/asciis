@@ -1,6 +1,6 @@
 [package]
 name = "asciis"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["zenrusts <zenrusts@sina.com>"]
 edition = "2018"
 description = "ASCII base on RFC20. Just ord() and chr()"
